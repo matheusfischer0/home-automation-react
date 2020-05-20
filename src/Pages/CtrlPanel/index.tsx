@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import { Header, Grid } from './style';
 
 const CtrlPanel: React.FC = () => {
-    return (
+    return (    
         <>
             <Header>
                 <Link to="/control-panel">
